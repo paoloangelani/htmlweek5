@@ -174,6 +174,8 @@ iframe {
     border-radius: 20px;
 }
 
+
+
 @media screen and (min-width: 1200px) {
 
     iframe,
@@ -181,6 +183,11 @@ iframe {
         width: 49%;
         margin-bottom: 0;
         display: inline-block;
+        border-radius: 20px;
+    }
+
+    .row {
+        display: flex;
     }
 }
 
